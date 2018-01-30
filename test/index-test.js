@@ -21,3 +21,8 @@ describe('what-is-a-test', () => {
     })
   })
 })
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> e530b36087347ff27eee518cec00adfc360a5b32
